@@ -176,7 +176,7 @@ function App() {
                     className="delete-button"
                     onClick={() => handleDelete(job.id)}
                   >
-                    Delet
+                    Delete
                   </button>
                 </td>
               </tr>
